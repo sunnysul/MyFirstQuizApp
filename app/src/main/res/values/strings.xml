@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My First Quiz App</string>
+    <string name="xtrue">True</string>
+    <string name="xfalse">False</string>
+    <string name="todo">TODO</string>
+    <string name="xquestions">Questions</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="wrong_answer">Wrong Answer</string>
+
+    <string name="question1">1 + 1 = 3</string>
+    <string name="question2">3 + 5 = 8</string>
+    <string name="question3">2 + 1 = 3</string>
+    <string name="question4">5 – 2 = 1</string>
+    <string name="question5">15+ 1 = 14</string>
+</resources>
